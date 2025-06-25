@@ -2,7 +2,6 @@ import telebot
 import webbrowser
 from telebot import types
 
-bot = telebot.TeleBot("7927430165:AAEkAGSTQrVX2weyfLTkjwbPEvx1llzIkSg")
 
 # Клавиатура с одной кнопкой "Начать"
 def start_keyboard():
